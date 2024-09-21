@@ -1,4 +1,4 @@
-<h1>JavaScript Journey 🚀</h1>
+[<h1>JavaScript Journey 🚀</h1>](https://github.com/chandra71/Javascript/tree/main/Js-Lecture-1)
 Welcome to my personal JavaScript learning space! Here, I'm sharing all the lessons, tricks, and insights I pick up along the way. Everything is open-source and ready for you to dive in. 🌊  
 
 
