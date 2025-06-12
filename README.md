@@ -5,7 +5,7 @@ Welcome to my personal JavaScript learning space! Here, I'm sharing all the less
 
 What You’ll Find:  
 Real-world examples 🛠️  
-Clean, well-documented source code 📚  
+Clean, well-documented source code  
 Updates as I explore new concepts 🌱  
 Feel free to explore, experiment, and use any of the code for your own projects. Let’s learn together!  
 
